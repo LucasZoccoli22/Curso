@@ -10,7 +10,7 @@ y1 = int(input('Digite o segundo número: '))
 x2 = int(input('Digite o terceiro número: '))
 y2 = int(input('Digite o quarto número: '))
 
-a = (x1 - x1)**2
+a = (x1 - x2)**2
 b = (y1-y2)**2
 d = sqrt(a+b)
 
