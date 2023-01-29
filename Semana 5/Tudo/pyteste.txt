@@ -1,0 +1,8 @@
+Testes automatizados
+Pytest
+Entrar no cmd
+Entrar na pasta onde está o arquivo a ser testado PELO cmd
+COMANDO PARA RODAR O Pytest
+py.test (nome do arquivo).py
+
+definir testes para onde possa ter erros
