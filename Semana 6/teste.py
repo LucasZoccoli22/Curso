@@ -5,13 +5,8 @@ def computador_escolhe_jogada(n, m):
             return n
         else:
             quantia = n % (m + 1)
-
-
         if quantia > 0:
-
             return quantia
-
-
         return m
 
             
@@ -19,17 +14,9 @@ def computador_escolhe_jogada(n, m):
 
 
 def usuario_escolhe_jogada(n, m):
-
-    
-
     print("Sua vez!")
-
-
     jogada = 0
-
-
     while jogada == 0:
-
         jogada = int(input("Quantas peças irá tirar?: "))
 
 
