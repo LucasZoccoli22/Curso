@@ -1,0 +1,3 @@
+Definição de lista
+
+Pode ter mais de um tipo na mesma lista

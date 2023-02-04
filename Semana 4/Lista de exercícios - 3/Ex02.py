@@ -7,6 +7,6 @@ cont = 0
 impar = 1
 while cont < n:
     
-    print (impar)
+    print (impar, end=' ')
     impar += 2
     cont +=1
